@@ -43,7 +43,6 @@
                     <li><a href="about.php" class="block py-2 px-3 rounded-md text-blue-600 hover:bg-blue-50 hover:text-blue-700 transition-colors duration-200">About Us</a></li>
                     <li><a href="services.php" class="block py-2 px-3 rounded-md text-blue-600 hover:bg-blue-50 hover:text-blue-700 transition-colors duration-200">Services</a></li>
                     <li><a href="contact.php" class="block py-2 px-3 rounded-md text-blue-600 hover:bg-blue-50 hover:text-blue-700 transition-colors duration-200">Contact</a></li>
-                    <li><a href="page5.php" class="block py-2 px-3 rounded-md text-blue-600 hover:bg-blue-50 hover:text-blue-700 transition-colors duration-200"></a></li>
                 </ul>
             </nav>
         </aside>
