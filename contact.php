@@ -77,7 +77,7 @@
     <!-- Optional: Footer Section -->
     <footer class="bg-gray-800 text-white p-6 mt-auto shadow-inner rounded-t-lg">
         <div class="container mx-auto text-center text-sm">
-            <p>&copy; 2024 Mediakor. All rights reserved.</p>
+            <p>&copy; 2025 Mediakor. All rights reserved.</p>
             <p class="mt-2">
                 <a href="#" class="text-blue-300 hover:text-blue-100 transition-colors duration-200">Privacy Policy</a> |
                 <a href="#" class="text-blue-300 hover:text-blue-100 transition-colors duration-200">Terms of Service</a>
